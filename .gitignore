@@ -4,3 +4,5 @@
 
 /.vs/RealClrProject
 /x64
+/RealClrProject/x64
+/RealClrProject/obj
